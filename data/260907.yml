@@ -5,15 +5,15 @@ about:
   head: 09696b5
   archived: false
   latestVersion: "0.8.1"
-  collectedAt: 2026-09-07T04:36:40Z
+  collectedAt: 2026-09-07T19:45:13Z
 timeline:
   created: 2023-05-05
   lastCommit: 2026-08-25
   lastRelease: 2026-06-04
 popularity:
-  star: 27331
+  star: 27337
   watcher: 188
-  fork: 1739
+  fork: 1738
   release: 9
   contributor: 205
   pullRequest: 503
@@ -82,7 +82,7 @@ total:
   commit: 743
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/pingora
-collectedAt: 2026-09-07T04:36:41Z
+collectedAt: 2026-09-07T19:45:15Z
 loc:
   Rust:
     code: 78064
@@ -133,7 +133,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:36:42+00:00
+  collectedAt: 2026-09-07T19:45:15+00:00
   platform:
     darwin/arm64:
       name:  null
