@@ -7,7 +7,7 @@ about:
   latestVersion: "0.8.1"
   latestRelease: "0.8.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:48:00Z
+  collectedAt: 2026-09-09T18:55:08Z
 timeline:
   created: 2023-05-05
   lastCommit: 2026-08-25
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-06-04
   lastPrerelease: 
 popularity:
-  star: 27342
+  star: 27344
   watcher: 189
   fork: 1739
   release: 9
   contributor: 206
-  pullRequest: 503
+  pullRequest: 504
   issue: 439
 language:
   Rust: 3869520
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-10
     release: 0
     mergedPR: 1
-    openPR: 22
+    openPR: 23
     closedIssue: 1
     openIssue: 18
     commit: 8
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-11
     release: 0
     mergedPR: 4
-    openPR: 31
+    openPR: 32
     closedIssue: 3
     openIssue: 23
     commit: 35
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-11
     release: 0
     mergedPR: 5
-    openPR: 41
+    openPR: 42
     closedIssue: 7
     openIssue: 33
     commit: 68
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-13
     release: 1
     mergedPR: 14
-    openPR: 61
+    openPR: 62
     closedIssue: 11
     openIssue: 44
     commit: 164
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-14
     release: 3
     mergedPR: 30
-    openPR: 84
+    openPR: 85
     closedIssue: 34
     openIssue: 61
     commit: 312
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-19
     release: 6
     mergedPR: 74
-    openPR: 111
+    openPR: 112
     closedIssue: 117
     openIssue: 111
     commit: 533
 total:
   release: 9
   mergedPR: 116
-  openPR: 118
+  openPR: 119
   closedIssue: 258
   openIssue: 181
   commit: 743
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/pingora
-collectedAt: 2026-09-09T04:48:01Z
+collectedAt: 2026-09-09T18:55:30Z
 loc:
   Rust:
     code: 78064
