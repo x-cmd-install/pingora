@@ -7,7 +7,7 @@ about:
   latestVersion: "0.9.0"
   latestRelease: "0.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:08:28Z
+  collectedAt: 2026-09-11T04:47:57Z
 timeline:
   created: 2023-05-05
   lastCommit: 2026-09-09
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 27347
   watcher: 189
-  fork: 1742
+  fork: 1744
   release: 10
   contributor: 203
   pullRequest: 510
@@ -86,7 +86,7 @@ total:
   commit: 764
 ---
 path: /home/runner/.x-repo/github.com/cloudflare/pingora
-collectedAt: 2026-09-11T00:08:51Z
+collectedAt: 2026-09-11T04:47:59Z
 loc:
   Rust:
     code: 81728
