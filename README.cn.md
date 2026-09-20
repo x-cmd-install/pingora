@@ -4,7 +4,7 @@
 
 A library for building fast, reliable and evolvable network services.
 
-![pingora](https://repo.x-cmd.io/pingora.svg?lang=zh)
+[![x-cmd/install — pingora Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pingora.svg?lang=zh)](https://x-cmd.com/install/pingora)
 
 ## 安装
 
@@ -36,22 +36,22 @@ x install pingora
 
 ## 流行度
 
-- **Star**: 27,442 · **Fork**: 1,750 · **开放 issue**: 442 · **贡献者**: 201
+- **Star**: 27,480 · **Fork**: 1,753 · **开放 issue**: 444 · **贡献者**: 201
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 118 · **开放 PR**: 111 · **已关闭 issue**: 271 · **开放 issue**: 171 · **提交数**: 769
+- **发布数**: 10 · **已合并 PR**: 118 · **开放 PR**: 111 · **已关闭 issue**: 271 · **开放 issue**: 173 · **提交数**: 769
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 3 | 24 | 3 | 14 | 16 |
-| last60d | 2026-07-20 | 1 | 6 | 34 | 8 | 20 | 56 |
-| 90d | 2026-06-20 | 1 | 6 | 40 | 9 | 27 | 82 |
-| last180d | 2026-03-22 | 2 | 15 | 58 | 20 | 37 | 177 |
-| 360d | 2025-09-23 | 4 | 31 | 79 | 45 | 52 | 333 |
-| last720d | 2024-09-28 | 7 | 73 | 104 | 123 | 101 | 554 |
+| 30d | 2026-08-21 | 1 | 3 | 23 | 2 | 16 | 16 |
+| last60d | 2026-07-22 | 1 | 6 | 35 | 8 | 21 | 56 |
+| 90d | 2026-06-22 | 1 | 6 | 40 | 9 | 29 | 82 |
+| last180d | 2026-03-24 | 2 | 15 | 58 | 18 | 39 | 177 |
+| 360d | 2025-09-25 | 4 | 31 | 79 | 45 | 54 | 333 |
+| last720d | 2024-09-30 | 7 | 73 | 103 | 122 | 103 | 554 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ pingora 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:57:44Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:03:03Z._
