@@ -36,22 +36,22 @@ Total: **84,007** lines of code across **268** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 27,535 · **Forks**: 1,756 · **Open issues**: 446 · **Contributors**: 201
+- **Stars**: 27,542 · **Forks**: 1,757 · **Open issues**: 447 · **Contributors**: 201
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 118 · **Open PRs**: 113 · **Closed issues**: 272 · **Open issues**: 174 · **Commits**: 769
+- **Releases**: 10 · **Merged PRs**: 118 · **Open PRs**: 113 · **Closed issues**: 272 · **Open issues**: 175 · **Commits**: 769
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 1 | 2 | 21 | 2 | 14 | 4 |
-| last60d | 2026-07-29 | 1 | 4 | 35 | 8 | 22 | 45 |
-| 90d | 2026-06-29 | 1 | 6 | 39 | 10 | 28 | 73 |
-| last180d | 2026-03-31 | 2 | 15 | 59 | 19 | 40 | 172 |
-| 360d | 2025-10-02 | 4 | 30 | 81 | 46 | 53 | 328 |
-| last720d | 2024-10-07 | 7 | 71 | 105 | 120 | 103 | 554 |
+| 30d | 2026-08-29 | 1 | 2 | 20 | 2 | 15 | 1 |
+| last60d | 2026-07-30 | 1 | 4 | 35 | 7 | 22 | 38 |
+| 90d | 2026-06-30 | 1 | 6 | 38 | 10 | 29 | 68 |
+| last180d | 2026-04-01 | 2 | 15 | 59 | 19 | 41 | 165 |
+| 360d | 2025-10-03 | 4 | 30 | 81 | 45 | 54 | 324 |
+| last720d | 2024-10-08 | 7 | 71 | 105 | 120 | 104 | 548 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for pingora lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:23:19Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:26:17Z._
