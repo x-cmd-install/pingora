@@ -1,0 +1,138 @@
+about:
+  description: "A library for building fast, reliable and evolvable network services."
+  license: Apache-2.0
+  homepage: 
+  head: 84f21ee
+  archived: false
+  latestVersion: "0.9.0"
+  latestRelease: "0.9.0"
+  latestPrerelease: ""
+  collectedAt: 2026-10-30T05:48:03Z
+timeline:
+  created: 2023-05-05
+  lastCommit: 2026-10-24
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
+  lastPrerelease: 
+popularity:
+  star: 27740
+  watcher: 187
+  fork: 1792
+  release: 10
+  contributor: 214
+  pullRequest: 543
+  issue: 489
+language:
+  Rust: 5393935
+  Dockerfile: 941
+  Shell: 137
+  HTML: 13
+totalBytes: 5395026
+recent:
+  last30d:
+    since: 2026-09-30
+    release: 0
+    mergedPR: 2
+    openPR: 14
+    closedIssue: 2
+    openIssue: 33
+    commit: 15
+  last60d:
+    since: 2026-08-31
+    release: 1
+    mergedPR: 4
+    openPR: 36
+    closedIssue: 4
+    openIssue: 53
+    commit: 31
+  last90d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 6
+    openPR: 50
+    closedIssue: 11
+    openIssue: 60
+    commit: 71
+  last180d:
+    since: 2026-05-03
+    release: 2
+    mergedPR: 12
+    openPR: 63
+    closedIssue: 23
+    openIssue: 74
+    commit: 173
+  last360d:
+    since: 2025-11-04
+    release: 4
+    mergedPR: 29
+    openPR: 92
+    closedIssue: 47
+    openIssue: 90
+    commit: 331
+  last720d:
+    since: 2024-11-09
+    release: 6
+    mergedPR: 60
+    openPR: 116
+    closedIssue: 113
+    openIssue: 138
+    commit: 531
+total:
+  release: 10
+  mergedPR: 120
+  openPR: 125
+  closedIssue: 277
+  openIssue: 212
+  commit: 800
+---
+path: /home/runner/.x-repo/github.com/cloudflare/pingora
+collectedAt: 2026-10-30T05:48:05Z
+loc:
+  Rust:
+    code: 109507
+    comments: 10700
+    blanks: 14602
+    files: 284
+  Toml:
+    code: 1075
+    comments: 91
+    blanks: 145
+    files: 27
+  Bitbake:
+    code: 505
+    comments: 68
+    blanks: 106
+    files: 4
+  Dockerfile:
+    code: 17
+    comments: 0
+    blanks: 3
+    files: 1
+  Yaml:
+    code: 17
+    comments: 0
+    blanks: 0
+    files: 3
+  Sh:
+    code: 5
+    comments: 1
+    blanks: 0
+    files: 1
+  Html:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1479
+    blanks: 485
+    files: 27
+total:
+  code: 111719
+  comments: 21581
+  blanks: 16933
+  files: 348
+---
+
+---
