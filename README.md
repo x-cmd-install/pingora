@@ -31,27 +31,27 @@ Total: **114,788** lines of code across **325** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `0.9.0` (2026-09-09)
+- **Latest**: `0.9.1` (2026-11-03)
 - **Last commit**: 2026-10-31
 
 ## Popularity
 
-- **Stars**: 27,762 · **Forks**: 1,800 · **Open issues**: 489 · **Contributors**: 222
+- **Stars**: 27,773 · **Forks**: 1,802 · **Open issues**: 490 · **Contributors**: 222
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 121 · **Open PRs**: 129 · **Closed issues**: 279 · **Open issues**: 210 · **Commits**: 815
+- **Releases**: 11 · **Merged PRs**: 122 · **Open PRs**: 129 · **Closed issues**: 281 · **Open issues**: 209 · **Commits**: 815
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 3 | 18 | 1 | 31 | 21 |
-| last60d | 2026-09-03 | 1 | 5 | 38 | 4 | 49 | 40 |
-| 90d | 2026-08-04 | 1 | 7 | 54 | 12 | 59 | 74 |
-| last180d | 2026-05-06 | 2 | 13 | 68 | 24 | 73 | 181 |
-| 360d | 2025-11-07 | 4 | 29 | 95 | 47 | 88 | 330 |
-| last720d | 2024-11-12 | 6 | 61 | 119 | 112 | 133 | 546 |
+| 30d | 2026-10-04 | 1 | 4 | 19 | 2 | 30 | 21 |
+| last60d | 2026-09-04 | 2 | 6 | 36 | 6 | 47 | 40 |
+| 90d | 2026-08-05 | 2 | 8 | 53 | 14 | 58 | 74 |
+| last180d | 2026-05-07 | 3 | 14 | 68 | 26 | 72 | 181 |
+| 360d | 2025-11-08 | 5 | 30 | 95 | 49 | 87 | 330 |
+| last720d | 2024-11-13 | 7 | 62 | 119 | 114 | 132 | 546 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for pingora lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:02:58Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:46:47Z._
