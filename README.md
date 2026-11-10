@@ -14,11 +14,11 @@ x install pingora
 
 ## Code insight
 
-Total: **114,788** lines of code across **325** files in the top 5 languages.
+Total: **118,356** lines of code across **331** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 113,160 | 10,881 | 15,074 | 290 |
+| Rust | 116,728 | 11,060 | 15,491 | 296 |
 | Toml | 1,083 | 94 | 147 | 27 |
 | Bitbake | 505 | 68 | 106 | 4 |
 | Dockerfile | 17 | 0 | 3 | 1 |
@@ -32,26 +32,26 @@ Total: **114,788** lines of code across **325** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.9.1` (2026-11-03)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-09
 
 ## Popularity
 
-- **Stars**: 27,816 · **Forks**: 1,809 · **Open issues**: 492 · **Contributors**: 223
+- **Stars**: 27,837 · **Forks**: 1,814 · **Open issues**: 494 · **Contributors**: 226
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 122 · **Open PRs**: 128 · **Closed issues**: 299 · **Open issues**: 193 · **Commits**: 815
+- **Releases**: 11 · **Merged PRs**: 123 · **Open PRs**: 130 · **Closed issues**: 299 · **Open issues**: 195 · **Commits**: 831
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 1 | 4 | 21 | 18 | 13 | 21 |
-| last60d | 2026-09-09 | 2 | 5 | 36 | 23 | 30 | 40 |
-| 90d | 2026-08-10 | 2 | 7 | 52 | 32 | 40 | 74 |
-| last180d | 2026-05-12 | 3 | 14 | 68 | 44 | 56 | 181 |
-| 360d | 2025-11-13 | 5 | 30 | 90 | 66 | 71 | 330 |
-| last720d | 2024-11-18 | 7 | 62 | 118 | 130 | 113 | 546 |
+| 30d | 2026-10-11 | 1 | 5 | 23 | 18 | 14 | 27 |
+| last60d | 2026-09-11 | 1 | 5 | 34 | 23 | 31 | 51 |
+| 90d | 2026-08-12 | 2 | 8 | 54 | 32 | 42 | 81 |
+| last180d | 2026-05-14 | 3 | 15 | 70 | 44 | 58 | 188 |
+| 360d | 2025-11-15 | 5 | 31 | 92 | 66 | 73 | 341 |
+| last720d | 2024-11-20 | 7 | 63 | 119 | 130 | 114 | 562 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for pingora lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:11:03Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:20:12Z._
